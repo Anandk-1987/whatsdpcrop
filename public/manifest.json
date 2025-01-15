@@ -1,0 +1,22 @@
+{
+  "name": "WhatsDpCrop.com - Set Full Picture as WhatsApp DP without Cropping",
+  "short_name": "WhatsDpCrop",
+  "description": "Convert and optimize your WhatsApp profile picture without cropping",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22C55E",
+  "icons": [
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/favicon-32x32-aVfcawzrL0hJlcyb9LTDtQiIsvAVip.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/whatsdpcrop-kTtbWxF2mb083QyXrT8dGl3EX9TBoR.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
+
